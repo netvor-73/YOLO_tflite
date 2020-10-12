@@ -1,0 +1,8 @@
+*.weights
+*.tflite
+*.cfg
+*.names
+*.h5
+*.mp4
+1/
+cpp/
